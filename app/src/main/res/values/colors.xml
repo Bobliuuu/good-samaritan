@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Vercel-inspired color palette -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#FAFAFA</color>
+    <color name="border_gray">#EAEAEA</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_gray_dark">#444444</color>
+    <color name="accent_blue">#0070F3</color>
+    <color name="accent_blue_dark">#0061D3</color>
+    <color name="colorAccent">#FF4081</color> <!-- or any color you want -->
+
+    <!-- Semantic colors -->
+    <color name="success">#0070F3</color>
+    <color name="error">#FF0000</color>
+    <color name="warning">#F5A623</color>
+</resources>
